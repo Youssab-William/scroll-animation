@@ -1,0 +1,25 @@
+
+body{
+  height: 4400px;
+  scroll-behavior: smooth;
+}
+
+#object{
+  position: fixed;
+  width: 200px;
+}
+
+#tree{
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 50px;
+}
+
+p{
+  position: fixed;
+  bottom: 15px;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+}
